@@ -7,6 +7,9 @@
 - kernel
 - java coffee maybe javascript
 - PR hand pulled noodles
+- two byte brownies (nibble)
+- google mini cupcakes
+- sc-rum and coke
 - 
 
 
