@@ -6,11 +6,15 @@
 - css maybe
 - kernel
 - java coffee maybe javascript
-- PR hand pulled noodles
+- PR hand pulled noodles, pulled pork
 - two byte brownies (nibble)
 - google mini cupcakes
 - sc-rum and coke
-- Pear programming
+- poached pear programming
+- (email) ccongee
+- applet pie
+- granola address bar
+- cereal serial
 
 
 ### Titles
