@@ -1,6 +1,7 @@
 # TBD—Brainstorming
 ### Recipes
 - hmac and cheese
+- NaN bread
 - chocolate chip cookies
 - cachews?? cache cashews
 - css maybe
@@ -18,6 +19,8 @@
 - cereal serial
 - pesto_tortell.ini
 - hash browns
+- open font face sandwich
+- parse parsnip 
 - 
 
 
