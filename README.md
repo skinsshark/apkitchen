@@ -15,6 +15,9 @@
 - applet pie
 - granola address bar
 - cereal serial
+- pesto_tortell.ini
+- hash browns
+- 
 
 
 ### Titles
