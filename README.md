@@ -5,7 +5,7 @@
 - pesto_tortell.ini
 - scrum and coke
 - applet pie
-- two byte brownies (nibble)
+- half byte brownies (nibble)
 - open font face sandwich
 ---
 - chocolate chip (http?) cookies
